@@ -1,0 +1,16 @@
+﻿  Admin.cpp
+  AdminManager.cpp
+  bank_system.cpp
+  Client.cpp
+  ClientManager.cpp
+  DataSourceInterface.cpp
+  Employee.cpp
+  EmployeeManager.cpp
+  FileManager.cpp
+  FilesHelper.cpp
+  Parser.cpp
+  Person.cpp
+  Screens.cpp
+  Validation.cpp
+  Generating Code...
+  bank_system.vcxproj -> C:\Users\moham\OneDrive\Desktop\bank_system-master\bank_system-master\x64\Debug\bank_system.exe
